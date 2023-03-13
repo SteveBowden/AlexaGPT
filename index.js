@@ -76,7 +76,7 @@ function passToOpenAI()
                 if (sessionAttributes.conversation)
                 {
                   console.log(sessionAttributes.conversation);
-                  //add a new line
+                  
                   sessionAttributes.conversation = sessionAttributes.conversation + ' ';
                 }
                 else
@@ -84,7 +84,7 @@ function passToOpenAI()
                     sessionAttributes.conversation = '';
                 }
                  sessionAttributes.conversation = sessionAttributes.conversation + 'Steve: '+ event.request.intent.slots.saysTypes.value + '. Trevor: ';
-                //append this request as a new line with Human prefix           
+                      
                 proxyObject.prompt = sessionAttributes.conversation;
             }
         var payload = JSON.stringify(proxyObject);
