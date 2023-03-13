@@ -1,4 +1,6 @@
 # AlexaGPT
+DEV Alexa Code only - this won't pass certification, you can obviously make it pass, but I'm not progressing this work any further. I've had my fun. 
+
 Role play with ChatGPT through your Alexa device - BYO open.ai API Key! there is a line in the code where you add it. 
 
 Built in role plays:
