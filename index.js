@@ -89,7 +89,6 @@ function passToOpenAI()
             }
         var payload = JSON.stringify(proxyObject);
         console.log('sending this payload: ' + payload);
-        // Information required to invoke the API is available in the session
         const https = require('https');
         const apiEndpoint = 'api.openai.com';
         const token = //ADD YOUR OPENAPI KEY STRING HERE
