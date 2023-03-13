@@ -9,6 +9,8 @@ Built in role plays:
 2. Alexa wants to buy a horse and you can try convincing it that it isn't a good idea, this one can get fairly dramatic
 3. Add your own.. there is an array of role plays in the code, make sure you use Steve and Trevor as the characters (you are Steve), you can change all this, just read the code and fix it to your taste
 
+Check out a video of it in action here: https://youtu.be/_v4utZulWH8
+
 I'm none too swift with JavaScript so feel free to fix up the code to your taste, I don't need any PRs as it is working okay for me. Better you take it and make it into something awesome. 
 
 See the interaction model, you'd paste that into the Alexa developer portal (I'm assuming you've played with Alexa skills before). I've called my Dev skill Chatty Maximus, but you can call yours whatever you want, just update the JSON. 
