@@ -5,7 +5,7 @@ Role play with ChatGPT through your Alexa device - BYO open.ai API Key! there is
 
 Built in role plays:
 
-1. A Sassy Alexa detective is trying to interigate you as the prime suspect in a robbery
+1. A Sassy Alexa detective is trying to interrogate you as the prime suspect in a robbery
 2. Alexa wants to buy a horse and you can try convincing it that it isn't a good idea, this one can get fairly dramatic
 3. Add your own.. there is an array of role plays in the code, make sure you use Steve and Trevor as the characters (you are Steve), you can change all this, just read the code and fix it to your taste
 
